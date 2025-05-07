@@ -1,0 +1,17 @@
+820-A,14
+15
+Akash,Pandey,1001,100.0
+Ankit,Kumar,1002,60.0
+Anurag,Kumar,1003,39.0
+Abhishek,Kumar,1004,75
+Riya,Kumari,1005,88
+Raushan,Kumar,1006,74
+Smita,Paul,1007,76.3
+Naman,Khurana,1008,86.3
+Parv,Chaubey,1009,46
+Satayam,Raj,1010,92
+Aditi,,1011,89
+Anushka,Sharma,1012,86
+Aditya,Khurana,1013,100
+Pragya,Raj,1014,22
+Sneha,Kumari,1015,81.2
