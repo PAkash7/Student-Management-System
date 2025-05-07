@@ -44,7 +44,6 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/student-management-system-java.git
 cd student-management-system-java
 Compile the Code
 
